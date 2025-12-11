@@ -1,0 +1,9 @@
+node_modules
+.git
+*.log
+*.tmp
+*.temp
+src/style/input.css
+src/nodes/
+api/db.js
+vercel.json

@@ -1,14 +1,19 @@
 import { defineConfig } from "vite";
+import { resolve } from "path";
 
 export default defineConfig({
-  base: '/digi-mock-api/', // This is CRUCIAL for GitHub Pages
-  build: {
-    outDir: 'dist',
-    assetsDir: 'assets',
-    sourcemap: false,
-  },
   server: {
     port: 5173,
   },
-  publicDir: 'public',
+  build: {
+    outDir: "dist",
+    assetsDir: "assets",
+    rollupOptions: {
+      input: {
+        main: resolve(__dirname, "index.html"),
+        login: resolve(__dirname, "login.html")
+      }
+    }
+  },
+  publicDir: "public",
 });
