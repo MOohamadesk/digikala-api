@@ -1,0 +1,56 @@
+{
+    "type": "simple_banner",
+    "data": [
+      {
+        "id": 204516,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/768c5db0e92922f3055a1738e5433e92a2fec3dc_1764660740.jpg?x-oss-process=image/quality,q_95",
+        "webp_image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/768c5db0e92922f3055a1738e5433e92a2fec3dc_1764660740.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "title": "پارتنرشیپ-وچه",
+        "is_ad": false,
+        "url": {
+          "base": null,
+          "uri": "/product-list/plp_327145996/?&promo_name=%D9%BE%D8%A7%D8%B1%D8%AA%D9%86%D8%B1%D8%B4%DB%8C%D9%BE-%D9%88%DA%86%D9%87&promo_position=home_middle_third&promo_creative=202524&bCode=204516"
+        },
+        "video": "",
+        "description": "",
+        "action_title": "",
+        "bullet_points": [],
+        "category_id": null,
+        "show_percentage": 100,
+        "opening_type": "opening_type_new_tab",
+        "ratio_type": "type_b",
+        "display_option": "home_page",
+        "hex_code": "",
+        "video_direct": null,
+        "is_smart_ads": false,
+        "mega_menu_id": null,
+        "zone": "web_zone_middle"
+      },
+      {
+        "id": 204518,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/30923d78605f69304b58eeab14322671f17eb15c_1764755227.jpg?x-oss-process=image/quality,q_95",
+        "webp_image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/30923d78605f69304b58eeab14322671f17eb15c_1764755227.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "title": "پارتنرشیپ-السانا",
+        "is_ad": false,
+        "url": {
+          "base": null,
+          "uri": "/landing/Elsana/?&promo_name=%D9%BE%D8%A7%D8%B1%D8%AA%D9%86%D8%B1%D8%B4%DB%8C%D9%BE-%D8%A7%D9%84%D8%B3%D8%A7%D9%86%D8%A7&promo_position=home_middle&promo_creative=204518&bCode=204518"
+        },
+        "video": "",
+        "description": "",
+        "action_title": "",
+        "bullet_points": [],
+        "category_id": null,
+        "show_percentage": 50,
+        "opening_type": "opening_type_new_tab",
+        "ratio_type": "type_b",
+        "display_option": "home_page",
+        "hex_code": "",
+        "video_direct": null,
+        "is_smart_ads": false,
+        "mega_menu_id": null,
+        "zone": "web_zone_middle"
+      }
+    ],
+    "name": "banners_home_web_zone_middle"
+  }

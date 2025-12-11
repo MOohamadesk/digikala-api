@@ -1,0 +1,36 @@
+@import "tailwindcss";
+@tailwind utilities;
+@plugin "daisyui";
+@import "./custom.css";
+@font-face {
+  font-family: "IRANYekan";
+  src: url("../fonts/Yekan.ttf") format("ttf");
+  src: url("../fonts/BYekan.woff2") format("woff2");
+  src: url("../fonts/BYekan.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --font-IRyekan: "IRANYekan";
+  --spacing-menuH: 510px;
+  --spacing-subMenuTop: 39px;
+  --color-menuText: #62666d;
+}
+
+/* Custom CSS variables */
+:root {
+  --font-IRyekan: "IRANYekan", sans-serif;
+}
+/* swiper */
+/* Swiper override for stories */
+.storySwiper {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.storySwiper .swiper-slide {
+  width: 80px !important;
+  height: 100% !important;
+}

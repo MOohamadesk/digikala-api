@@ -1,0 +1,198 @@
+{
+  "type": "products-offer-cart",
+  "products": [
+    {
+      "id": 19321474,
+      "title_fa": "گوشی موبایل ژیواکو مدل F152 دو سیم کارت",
+      "images": {
+        "main": {
+          "url": [
+            "https://dkstatics-public.digikala.com/digikala-products/e540de0df813b6b17134fee44a062787acbb0da0_1751110092.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+          ]
+        }
+      },
+      "price": {
+        "sell_price": 2950000,
+        "rrp_price": 7500000,
+        "discount_percent": 61
+      }
+    },
+    {
+      "id": 19691374,
+      "title_fa": "گوشی موبایل ریلمی مدل Note 60 دو سیم‌کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "images": {
+        "main": {
+          "url": [
+            "https://dkstatics-public.digikala.com/digikala-products/6c2418f225b23b5e78dc9585e3c9289610525f82_1753810444.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+          ]
+        }
+      },
+      "price": {
+        "selling_price": 4250000,
+        "rrp_price": 10500000,
+        "discount_percent": 60
+      }
+    },
+    {
+      "id": 20311180,
+      "title_fa": "گوشی موبایل ریلمی مدل Plus 12 ظرفیت 512 گیگابایت و رم 12 گیگابایت",
+      "images": {
+        "main": {
+          "url": [
+            "https://dkstatics-public.digikala.com/digikala-products/52ff394a1c683eecdad707d9da45b669bfd7e4fb_1756650359.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+          ]
+        }
+      },
+      "price": {
+        "selling_price": 18500000,
+        "rrp_price": 26500000,
+        "discount_percent": 30
+      }
+    },
+    {
+      "id": 12017236,
+      "title_fa": "گوشی موبایل داریا مدل bond 5G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+      "images": {
+        "main": {
+          "url": [
+            "https://dkstatics-public.digikala.com/digikala-products/825f59b4d5947b70d0f759b6b51c56ad7a881f34_1737972622.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+          ]
+        }
+      },
+      "price": {
+        "selling_price": 8500000,
+        "rrp_price": 13500000,
+        "discount_percent": 37
+      }
+    },
+    {
+      "id": 20276383,
+      "title_fa": "لپ تاپ 15.3 اینچی لنوو مدل IdeaPad Slim 3 15IRH10-i5 13420H-8GB DDR5-512GB SSD-IPS",
+      "images": {
+        "main": {
+          "url": [
+            "https://dkstatics-public.digikala.com/digikala-products/d3ffb3b0275287ec706ca32e7dfe209eeb6220dd_1756276789.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+          ]
+        }
+      },
+      "price": {
+        "selling_price": 32500000,
+        "rrp_price": 42000000,
+        "discount_percent": 23
+      }
+    },
+    {
+      "id": 20623335,
+      "title_fa": "لپ تاپ 16 اینچی ایسر مدل Aspire Lite AL16-54P-37J9-i3 1305U-8GB DDR5 4800MHz-256GB SSD-IPS",
+      "images": {
+        "main": {
+          "url": [
+            "https://dkstatics-public.digikala.com/digikala-products/a0ec9aa7f72d06c5617af9524f309ebbad1ec3ad_1762332644.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+          ]
+        }
+      },
+      "price": {
+        "selling_price": 27500000,
+        "rrp_price": 38000000,
+        "discount_percent": 28
+      }
+    },
+    {
+      "id": 21017692,
+      "title_fa": "لپ تاپ 15.6 اینچی اچ‌ پی مدل Victus 15 fb3120AX-R7 7445HS-16GB DDR5 5600MHz-512GB SSD-RTX3050 6GB-FHD 144Hz-W",
+      "images": {
+        "main": {
+          "url": [
+            "https://dkstatics-public.digikala.com/digikala-products/dcdf1e431576389997bdf9e1a4d1ff5c545cec54_1764748894.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+          ]
+        }
+      },
+      "price": {
+        "selling_price": 48500000,
+        "rrp_price": 62000000,
+        "discount_percent": 22
+      }
+    },
+    {
+      "id": 18593538,
+      "title_fa": "ساعت هوشمند 46 میلی متری ورنا مدل T46 Pro max با بند فلزی به همراه 2 بند اضافه و شارژر",
+      "images": {
+        "main": {
+          "url": [
+            "https://dkstatics-public.digikala.com/digikala-products/d431a5319fb9289f3d81ec963fa0f938ae0632a8_1748070468.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+          ]
+        }
+      },
+      "price": {
+        "selling_price": 1250000,
+        "rrp_price": 3200000,
+        "discount_percent": 61
+      }
+    },
+    {
+      "id": 14387612,
+      "title_fa": "ساعت هوشمند ورنا مدل  W49 Ultra",
+      "images": {
+        "main": {
+          "url": [
+            "https://dkstatics-public.digikala.com/digikala-products/1ea4587f3b9fc2878e0471b9e04754108ef248fe_1738569472.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+          ]
+        }
+      },
+      "price": {
+        "selling_price": 1850000,
+        "rrp_price": 4500000,
+        "discount_percent": 59
+      }
+    },
+    {
+      "id": 18478418,
+      "title_fa": "ساعت هوشمند گلوریمی مدل GX RACE مناسب برای ورزش، کنترل سطح اکسیژن خون، شمارش ضربان قلب، پایش وضعیت خواب",
+      "images": {
+        "main": {
+          "url": [
+            "https://dkstatics-public.digikala.com/digikala-products/e94338366232b8bfb56f5e8038b042bd1c323d02_1754240544.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+          ]
+        }
+      },
+      "price": {
+        "selling_price": 950000,
+        "rrp_price": 2800000,
+        "discount_percent": 66
+      }
+    },
+    {
+      "id": 10015859,
+      "title_fa": "قرص جوشان ویتامین ث پرتغالی های Health - 1000 میلی گرم بسته 20 عددی",
+      "images": {
+        "main": {
+          "url": [
+            "https://dkstatics-public.digikala.com/digikala-products/fcafe8b72711a8897ec9c238102448ecdee786fd_1669823151.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+          ]
+        }
+      },
+      "price": {
+        "selling_price": 65000,
+        "rrp_price": 180000,
+        "discount_percent": 64
+      }
+    },
+    {
+      "id": 7158804,
+      "title_fa": "قرص ویتامین D3-1000 واحدی  بسته 60 عددی",
+      "images": {
+        "main": {
+          "url": [
+            "https://dkstatics-public.digikala.com/digikala-products/c64720f4446aa94b873dab4ae35091bc3f0fcc22_1637680139.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+          ]
+        }
+      },
+      "price": {
+        "selling_price": 85000,
+        "rrp_price": 220000,
+        "discount_percent": 61
+      }
+    }
+  ],
+  "name": "digi_amazing"
+}
