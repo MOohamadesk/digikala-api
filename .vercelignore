@@ -5,5 +5,3 @@ node_modules
 *.temp
 src/style/input.css
 src/nodes/
-api/db.js
-vercel.json

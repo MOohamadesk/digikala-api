@@ -1,11 +1,8 @@
-module.exports = {
+/** @type {import('tailwindcss').Config} */
+export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {
-      fontFamily: {
-        IRyekan: ["IRyekan", "sans-serif"],
-      },
-    },
+    extend: {},
   },
   plugins: [require("daisyui")],
 };
