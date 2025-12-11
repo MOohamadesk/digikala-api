@@ -124,7 +124,7 @@ let API_BASE =
 
   async function MenuFetch() {
     try {
-      const response = await fetch(`/api/data-01.json`);
+      const response = await fetch(`${window.location.origin}/api/data-01`);
       if (!response.ok)
         throw new Error(`HTTP error! status: ${response.status}`);
 
@@ -166,7 +166,7 @@ let API_BASE =
 
   async function fetchStories() {
     try {
-      const response = await fetch(`/api/data-02.json`);
+      const response = await fetch(`${window.location.origin}/api/data-02`);
       const data = await response.json();
 
       const viewedStories = JSON.parse(
@@ -297,7 +297,7 @@ let API_BASE =
 
   async function fetchFullSlider() {
     try {
-      let response = await fetch(`/api/data-03.json`);
+      let response = await fetch(`${window.location.origin}/api/data-03`);
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }
@@ -371,7 +371,7 @@ let API_BASE =
 
   async function fetchSumLinks() {
     try {
-      const response = await fetch(`/api/data-04.json`);
+      const response = await fetch(`${window.location.origin}/api/data-04`);
       if (!response.ok)
         throw new Error(`HTTP error! status: ${response.status}`);
       const data = await response.json();
@@ -492,7 +492,7 @@ let API_BASE =
 
   async function fetchAmazing() {
     try {
-      let res = await fetch(`/api/data-05.json`);
+      let res = await fetch(`${window.location.origin}/api/data-05`);
       if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
 
       let data = await res.json();
@@ -660,7 +660,7 @@ let API_BASE =
 
   async function fetchBanners() {
     try {
-      const response = await fetch(`/api/data-06.json`);
+      const response = await fetch(`${window.location.origin}/api/data-06`);
       const data = await response.json();
       displaySingleBanners(data.data);
     } catch (error) {
@@ -710,7 +710,7 @@ let API_BASE =
 
   async function fetchCategories() {
     try {
-      const response = await fetch(`/api/data-07.json`);
+      const response = await fetch(`${window.location.origin}/api/data-07`);
       if (!response.ok)
         throw new Error(`HTTP error! status: ${response.status}`);
 
@@ -846,7 +846,7 @@ let API_BASE =
 
   async function fetchDoubleBanners() {
     try {
-      const response = await fetch(`/api/data-08`);
+      const response = await fetch(`${window.location.origin}/api/data-08`);
       if (!response.ok) {
         throw new Error("خطا در شبکه");
       }
@@ -889,7 +889,7 @@ let API_BASE =
 
   async function fetchPopularBrands() {
     try {
-      const response = await fetch(`/api/data-09`);
+      const response = await fetch(`${window.location.origin}/api/data-09`);
       if (!response.ok)
         throw new Error(`HTTP error! status: ${response.status}`);
 
@@ -980,7 +980,7 @@ let API_BASE =
 
   async function loadDoubleSubBanners() {
     try {
-      const response = await fetch(`/api/data-10`);
+      const response = await fetch(`${window.location.origin}/api/data-10`);
 
       if (!response.ok) {
         throw new Error(`خطا در دریافت داده: ${response.status}`);
@@ -1094,7 +1094,7 @@ let API_BASE =
 
   async function fetchCategoriesGrid() {
     try {
-      const response = await fetch(`/api/data-11`);
+      const response = await fetch(`${window.location.origin}/api/data-11`);
       if (!response.ok) {
         throw new Error("Network response was not ok");
       }
@@ -1152,7 +1152,7 @@ let API_BASE =
 
   async function fetchMagazinePosts() {
     try {
-      const response = await fetch(`/api/data-12`);
+      const response = await fetch(`${window.location.origin}/api/data-12`);
       const data = await response.json();
       if (data.type === "magazine_posts" && data.data?.news) {
         const fourItems = data.data.news.slice(0, 4);

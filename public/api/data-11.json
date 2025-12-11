@@ -1,0 +1,46 @@
+{
+    "type": "categories-grid",
+    "data": [
+      {
+        "title": "گوشی موبایل",
+        "categorizedBy": "بر اساس سلیقه شما",
+        "images": {
+          "image-1": "/images/categories-grid/phone-01.jpg",
+          "image-2": "/images/categories-grid/phone-02.jpg",
+          "image-3": "/images/categories-grid/phone-03.jpg",
+          "image-4": "/images/categories-grid/phone-04.jpg"
+        }
+      },
+      {
+        "title": "جوراب مردانه",
+        "categorizedBy": "بر اساس سلیقه شما",
+        "images": {
+          "image-1": "/images/categories-grid/socks-01.jpg",
+          "image-2": "/images/categories-grid/socks-02.jpg",
+          "image-3": "/images/categories-grid/socks-03.jpg",
+          "image-4": "/images/categories-grid/socks-04.jpg"
+        }
+      },
+      {
+        "title": "هدفون، هدست و هندزفری",
+        "categorizedBy": "بر اساس سلیقه شما",
+        "images": {
+          "image-1": "/images/categories-grid/headset-01.jpg",
+          "image-2": "/images/categories-grid/headset-02.jpg",
+          "image-3": "/images/categories-grid/headset-03.jpg",
+          "image-4": "/images/categories-grid/headset-04.jpg"
+        }
+      },
+      {
+        "title": "کیف و کاور گوشی",
+        "categorizedBy": "بر اساس سلیقه شما",
+        "images": {
+          "image-1": "/images/categories-grid/guard-01.jpg",
+          "image-2": "/images/categories-grid/guard-02.jpg",
+          "image-3": "/images/categories-grid/guard-03.jpg",
+          "image-4": "/images/categories-grid/guard-04.jpg"
+        }
+      }
+    ],
+    "name": "categories-grid"
+  }
